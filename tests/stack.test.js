@@ -1,4 +1,4 @@
-const Stack = require('../data structures/stack')
+const Stack = require('../data_structures/stack')
 
 describe('stack', () => {
   let stack
